@@ -1,2 +1,2 @@
 # Pandas-practice
-Some exercises with pandas I did in Jupyter
+Some exercises for pandas, seaborn, and plotly
